@@ -57,7 +57,7 @@ const Top: React.FC = () => {
           </button>
 
           {/* Profile Image */}
-          <button className="relative w-10 h-10 rounded-full overflow-hidden hover:ring-2 hover:ring-blue-500 transition">
+          <button className="relative w-10 h-10 rounded-full overflow-hidden hover:ring-2 hover:ring-gray-500 transition">
             <img
               src="../src/assets/profile.jpg" // replace with actual profile image path
               alt="Profile"
@@ -66,7 +66,7 @@ const Top: React.FC = () => {
           </button>
         </div>
 
-        {/* Mobile Menu Button */}
+        {/* Mobile menu Button */}
         <button
           aria-label="Toggle menu"
           className="md:hidden text-3xl text-gray-700"
