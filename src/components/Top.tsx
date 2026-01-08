@@ -53,7 +53,7 @@ const Top: React.FC = () => {
             className="relative p-3 rounded-full hover:bg-gray-200 transition"
           >
             <FiBell className="text-gray-700 text-xl w-7 h-7 rounded" />
-            {/* <span className="absolute top-2 right-2 h-2 w-2 bg-red-500 rounded-full"></span> */}
+            <span className="absolute top-2 right-2 h-2 w-2 bg-red-500 rounded-full"></span>
           </button>
 
           {/* Profile Image */}
