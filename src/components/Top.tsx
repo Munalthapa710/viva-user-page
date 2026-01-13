@@ -15,7 +15,7 @@ const Top: React.FC = () => {
   const navLinks = [
     { name: "Home", path: "/home" },
     { name: "Work", path: "/Work" },
-    { name: "History", path: "/Historys" },
+    { name: "History", path: "/History" },
     { name: "Contact", path: "/contact" },
   ];
 
